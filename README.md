@@ -29,5 +29,5 @@ I have compiled the Windows 11 icons for you. You can change the icons from the 
  > It can also help you to identify different applications and files more easily. 
 ```
 
-### **Download is -> _[Windows 11 Icons](https://github.com/nowte/windows11icons/releases/tag/1.0.2)_**
+### **Download is -> _[Windows 11 Icons](https://github.com/nowte/windows-11-icons/releases/tag/0.2.1)_**
 
