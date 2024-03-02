@@ -31,3 +31,5 @@ I have compiled the Windows 11 icons for you. You can change the icons from the 
 
 ### **Download is -> _[Windows 11 Icons](https://github.com/nowte/windows-11-icons/releases/tag/0.2.1)_**
 
+![windows-11-7tsp-Icon](https://github.com/nowte/windows-11-icons/assets/138712109/b9800446-fcc7-495e-a482-a22969ce51aa)
+
